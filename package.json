@@ -11,7 +11,7 @@
     "prestart": "npm run -s build"
   },
   "dependencies": {
-    "apollo-server": "^2.13.0",
+    "apollo-server": "^2.25.4",
     "apollo-server-express": "^2.13.0",
     "body-parser": "^1.13.3",
     "compression": "^1.5.2",
